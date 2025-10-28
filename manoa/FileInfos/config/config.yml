@@ -1,0 +1,6 @@
+
+paths:
+  files_path: "C:/Users/Yehonatan/PycharmProjects/manoa/FileInfos/sample_texts"
+  stopwords_path: "C:/Users/Yehonatan/PycharmProjects/manoa/FileInfos/stopwords/stopwords.txt"
+  filters_path: "C:/Users/Yehonatan/PycharmProjects/manoa/Backened/filters"
+  logs_path: "C:/Users/Yehonatan/PycharmProjects/manoa/Fronted/logs"
