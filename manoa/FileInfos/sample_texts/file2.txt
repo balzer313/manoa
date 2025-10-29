@@ -1,1 +1,0 @@
-Python is a versatile programming language used in web development, data analysis, and scientific computing. Libraries like NumPy, Pandas, and Matplotlib make it easy to manipulate data and visualize results. Many beginners start learning programming with Python because of its simple syntax.
