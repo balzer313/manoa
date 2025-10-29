@@ -1,0 +1,9 @@
+
+file_settings:
+  read: "r"
+
+paths:
+  files_path: "C:/Users/Yehonatan/PycharmProjects/manoa/config/sample_texts"
+  stopwords_path: "C:/Users/Yehonatan/PycharmProjects/manoa/config/stopwords/stopwords.txt"
+  filters_path: "C:/Users/Yehonatan/PycharmProjects/manoa/source/filters"
+  logs_path: "C:/Users/Yehonatan/PycharmProjects/manoa/logs"
